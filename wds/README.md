@@ -58,10 +58,11 @@ https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-install
 ## after
 After installing Windows system image manager and creating a file .xml do this. I will give my xml file in the following folder also my iso is 
 ```
-...
+fr-fr_windows_server_2022_x64_dvd_9f7d1adb.iso
 ```
 
 first add the files to wds
+
 ![alt text](images/wds7.png)
 
 after add the file to the install image in wds
@@ -77,7 +78,6 @@ Anyway after adding the xml file you can start a machine or VM with no OS.
 
 ![alt text](images//fin1.png)
 
-![alt text](images/fin2
-g)
+![alt text](images/fin2.png)
 
 in the next part i will show youi how to use mdt with wds. also i was in a rush so this README me be worse than the others.
